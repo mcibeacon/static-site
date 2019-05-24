@@ -9,9 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     ffi (1.11.1)
-    ffi (1.11.1-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
@@ -31,7 +29,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.12.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-paginate (1.1.0)
+    jekyll-paginate-v2 (2.0.0)
+      jekyll (~> 3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
@@ -64,11 +63,10 @@ GEM
 
 PLATFORMS
   ruby
-  x64-mingw32
 
 DEPENDENCIES
   jekyll-feed
-  jekyll-paginate
+  jekyll-paginate-v2
   jekyll-seo-tag
   jekyll-sitemap
 
