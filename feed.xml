@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-10-12T18:25:54-04:00</updated><id>/feed.xml</id><title type="html">The Beacon</title><subtitle>The Beacon is Martingrove's newspaper.</subtitle><entry><title type="html">Whoop whoop announcement test</title><link href="/2019/05/test-announcement.html" rel="alternate" type="text/html" title="Whoop whoop announcement test" /><published>2019-05-23T00:00:00-04:00</published><updated>2019-05-23T00:00:00-04:00</updated><id>/2019/05/test-announcement</id><content type="html" xml:base="/2019/05/test-announcement.html">&lt;p&gt;Hello irrybodie.&lt;/p&gt;</content><author><name>srao</name></author><summary type="html">Hello irrybodie.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-10-12T18:26:53-04:00</updated><id>/feed.xml</id><title type="html">The Beacon</title><subtitle>The Beacon is Martingrove's newspaper.</subtitle><entry><title type="html">eee</title><link href="/2019/10/test_beacon_article.html" rel="alternate" type="text/html" title="eee" /><published>2019-10-12T00:00:00-04:00</published><updated>2019-10-12T00:00:00-04:00</updated><id>/2019/10/test_beacon_article</id><content type="html" xml:base="/2019/10/test_beacon_article.html">&lt;p&gt;Yo guys what’s up. Here’s a test article. Yo guys what’s up. Here’s a
+test article. Yo guys what’s up. Here’s a test article. Yo guys what’s
+up. Here’s a test article.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;yeah&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hey&lt;/li&gt;
+  &lt;li&gt;There&lt;/li&gt;
+  &lt;li&gt;pretty&lt;/li&gt;
+  &lt;li&gt;things&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cool coool&lt;/p&gt;</content><author><name>cmac</name></author><summary type="html">Yo guys what’s up. Here’s a test article. Yo guys what’s up. Here’s a test article. Yo guys what’s up. Here’s a test article. Yo guys what’s up. Here’s a test article.</summary></entry><entry><title type="html">Whoop whoop announcement test</title><link href="/2019/05/test-announcement.html" rel="alternate" type="text/html" title="Whoop whoop announcement test" /><published>2019-05-23T00:00:00-04:00</published><updated>2019-05-23T00:00:00-04:00</updated><id>/2019/05/test-announcement</id><content type="html" xml:base="/2019/05/test-announcement.html">&lt;p&gt;Hello irrybodie.&lt;/p&gt;</content><author><name>srao</name></author><summary type="html">Hello irrybodie.</summary></entry></feed>
