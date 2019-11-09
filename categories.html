@@ -309,7 +309,7 @@ var documents = [{
     "id": 39,
     "url": "/categories.html",
     "title": "Categories",
-    "body": "            Categories                        bear_air        :                                                     		Whoop whoop announcement test	: 		  Hello irrybodie. 	 			May 23, 2019	                                                                      articles        :                                                     		The Reasoning Behind Spider-Man’s Exit from the MCU	: 		  If you’re a Marvel fan like me, then you’ve probably heard about therecent drama between Sony and Disney regarding Spider-Man. If youhaven’t heard about what is happening, here’s a su. . . 	 			Nov 09, 2019	                                                                    Featured:    				              "
+    "body": "            Categories                        bear_air        :                                                     		Whoop whoop announcement test	: 		  Hello irrybodie. 	 			May 23, 2019	                                                                    Featured:    				              "
     }, {
     "id": 40,
     "url": "/contact.html",
@@ -337,11 +337,6 @@ var documents = [{
     "body": "  {% assign offset_num = 0 %}  {% if page. url == '/' or page. url == '/index. html' %}  {% assign offset_num = 4 %}            {% assign latest_post = paginator. posts[0] %}                            &lt;div class= topfirstimage              style= background-image: url({% if latest_post. image contains  ://  %}{{ latest_post. image }}{% else %} {{site. baseurl}}/{{ latest_post. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;          &lt;/div&gt;                                      {{ latest_post. title }}          :                       {{ latest_post. excerpt | strip_html | strip_newlines | truncate: 136 }}                                               {{ latest_post. date | date: '%b %d, %Y' }}                                                        {%- assign second_post = paginator. posts[1] -%}              {% if second_post. image %}                              &lt;img class= w-100                src= {% if second_post. image contains  ://  %}{{ second_post. image }}{% else %}{{ second_post. image | absolute_url }}{% endif %}                alt= {{ second_post. title }} &gt;                          {% endif %}                              {{ second_post. title }}          :                       {{ second_post. date | date: '%b %d, %Y' }}                                    {%- assign third_post = paginator. posts[2] -%}              {% if third_post. image %}                              &lt;img class= w-100                src= {% if third_post. image contains  ://  %}{{ third_post. image }}{% else %}{{site. baseurl}}/{{ third_post. image }}{% endif %}                alt= {{ third_post. title }} &gt;                          {% endif %}                              {{ third_post. title }}          :                       {{ third_post. date | date: '%b %d, %Y' }}                                    {%- assign fourth_post = paginator. posts[3] -%}              {% if fourth_post. image %}                              &lt;img class= w-100                src= {% if fourth_post. image contains  ://  %}{{ fourth_post. image }}{% else %}{{site. baseurl}}/{{ fourth_post. image }}{% endif %}                alt= {{ fourth_post. title }} &gt;                          {% endif %}                              {{ fourth_post. title }}          :                       {{ fourth_post. date | date: '%b %d, %Y' }}                                  {% for post in site. posts %}  {% if post. tags contains  sticky  %}                              {{post. title}}                      {{ post. excerpt | strip_html | strip_newlines | truncate: 136 }}                     Read More                                      {% endif %}  {% endfor %}  {% endif %}                All Stories:       {% for post in paginator. posts offset:offset_num %}      {% include main-loop-card. html %}      {% endfor %}                      {% if paginator. total_pages &gt; 1 %}                  {% if paginator. previous_page %}          &laquo;              Prev          {% else %}          &laquo;          {% endif %}          {% for page in (1. . paginator. total_pages) %}          {% if page == paginator. page %}          {{ page }}          {% elsif page == 1 %}          {{ page }}          {% else %}          {{ page }}                    {% endif %}          {% endfor %}          {% if paginator. next_page %}          Next              &raquo;          {% else %}          &raquo;          {% endif %}                {% endif %}                    {% include sidebar-featured. html %}      "
     }, {
     "id": 45,
-    "url": "/2019/11/Marvels_Spiderman.html",
-    "title": "The Reasoning Behind Spider-Man’s Exit from the MCU",
-    "body": "2019/11/09 - If you’re a Marvel fan like me, then you’ve probably heard about therecent drama between Sony and Disney regarding Spider-Man. If youhaven’t heard about what is happening, here’s a summary. Sony has ownedthe film rights to Spider-Man since 1998. In 2015, they made a deal withDisney, agreeing to lend the character of Spider-Man to Marvel Studios,a company owned by Disney, and to the Marvel Cinematic Universe. As wehave seen over the last few years, Tom Holland’s Spider Man has played alarge role in many Marvel movies. Recently, Sony and Disney haverevisited their deal, and gone through negotiations about future stepsfor the Spider-Man character. On August 20th, 2019, Sony announced thatKevin Feige, president of Marvel Studios, won’t be playing a role in theproduction of the next Spider-Man film. This means that Spider-Man iscurrently not a part of the MCU anymore. This news left fans feelingboth angry and heartbroken, since Marvel’s latest movie, “Spider-Man:Far From Home” had set up Spider-Man to be the new face of thefranchise. Upon hearing about this, I didn’t understand what happenedbetween the two major companies, and wanted to know the reason behindthe decisions being made. Sony owns the rights to Spider-Man and gets to keep them as long as theymake a new Spider-Man movie every five to six years. They started with“Spider-Man” in 2002, starring Tobey Maguire. After its success, theyproceeded to release “Spider-Man 2”, and then “Spider-Man 3” in 2007. The third movie didn’t do quite as well as hoped, costing $260 millionto make, with profits dipping significantly from the first two movies. Five years later, Sony decided to reboot the series, and released “TheAmazing Spider-Man” starring Andrew Garfield. This movie made over $700million worldwide. With its success,”The Amazing Spider-Man 2” was made. Unfortunately, it did not live up to Sony’s expectations, with the veryhigh production costs and lessened excitement from fans. Because of their failed attempts, Sony struck a deal with Disney in  Marvel would be able to use Spider-Man in their cinematicuniverse, while Sony kept distribution rights and creative control. Sonyproducer, Amy Pascal, who played a big role in the creation of theSpider-Man movies since 2002, produced  Spider-Man: Homecoming  and Spider-Man: Far From Home  with Kevin Feige. This deal had beenupheld by both sides, until Sony decided to revisit the idea of makingtheir own Spider-Man films. Recently, Sony has been doing well with their own ‘Universe of MarvelCharacters’. “Venom” made over $800 million worldwide after beingreleased in 2018, and “Spider-Man: Far From Home” made over $1 billionthis summer. These successes have been “just the rebound Sony needed. ”Spider-Man is Sony’s greatest property, and they are highly motivated tokeep it in their control. . This is why they had such an interest intaking back the character. Another reason why the deal was beingrevisited was because Disney wanted a 50/50 stake in future Spider-Man  movies. Sony wanted to keep the deal as is: where Marvelreceives up to 5% of first-dollar gross and all merchandising revenue. As of right now, no new deal has been made. This indicates that unlesssomething changes, Marvel Studios will not be involved in the making ofnew Spider-Man movies, and no MCU characters will be referenced. Sonyhopes that Director John Watts and star Tom Holland will return for twomore Spider-Man films. Even though this feels like a big loss for fans,we should remember that there are still more movies being made, and eventhough Marvel seems to be out of Spider-Man's life right now, Sony ishopeful that a deal could still be made in the future. "
-    }, {
-    "id": 46,
     "url": "/2019/05/test-announcement.html",
     "title": "Whoop whoop announcement test",
     "body": "2019/05/23 - Hello irrybodie. "
@@ -439,36 +434,6 @@ function lunr_search(term) {
 	</p>
 	<small class="text-muted">
 		May 23, 2019
-	</small>
-</div>
-
-</div>
-                        
-                    
-                
-                
-                
-
-            
-                <h4 class="font-weight-bold spanborder text-capitalize" id="articles">
-                    <span>articles</span>
-                </h4>
-
-                
-                
-                    
-                        
-
-                            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/2019/11/Marvels_Spiderman.html">The Reasoning Behind Spider-Man’s Exit from the MCU</a>
-	</h2>
-	<p class="excerpt">
-	   If you’re a Marvel fan like me, then you’ve probably heard about therecent drama between Sony and Disney regarding Spider-Man. If youhaven’t heard about what is happening, here’s a su...
-	</p>
-	<small class="text-muted">
-		Nov 09, 2019
 	</small>
 </div>
 
