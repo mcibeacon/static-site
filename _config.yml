@@ -6,7 +6,6 @@ favicon: "assets/images/favicon.ico"
 baseurl: ""
 email: "fake@gmail.com"
 instagram: "https://instagram.com/mcibeacon"
-management_site: "https://admin.mcibeacon.ml"
 
 include: ["_pages"]
 permalink: /:year/:month/:title.html
