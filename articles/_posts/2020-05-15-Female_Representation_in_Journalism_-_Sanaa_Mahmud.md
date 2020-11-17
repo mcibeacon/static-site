@@ -2,8 +2,7 @@
 author: smahmud
 image: assets/images/2020-05-15-Female_Representation_in_Journalism_-_Sanaa_Mahmud_photo.jpg
 layout: post
-tags:
-- featured
+tags: [featured]
 title: 'Female Representation in Journalism: A Harsh Reality '
 ---
 

@@ -2,8 +2,7 @@
 author: ekim
 image: assets/images/2020-04-30-Unlocking_Your_Full_Potential_-_Emily_Kim_photo.jpg
 layout: post
-tags:
-- featured
+tags: [featured]
 title: Unlocking Your Full Potential
 ---
 

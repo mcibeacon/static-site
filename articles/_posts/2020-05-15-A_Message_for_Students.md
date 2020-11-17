@@ -2,8 +2,7 @@
 author: ntelesford
 image: assets/images/2020-05-15-A_Message_for_Students_photo.jpg
 layout: post
-tags:
-- featured
+tags: [featured]
 title: A Message for Students
 ---
 

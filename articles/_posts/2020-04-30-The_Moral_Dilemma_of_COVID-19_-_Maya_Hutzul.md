@@ -2,8 +2,7 @@
 author: mhutzul
 image: assets/images/2020-04-30-The_Moral_Dilemma_of_COVID-19_-_Maya_Hutzul_photo.jpg
 layout: post
-tags:
-- featured
+tags: [featured]
 title: The Moral Dilemma of COVID-19
 ---
 

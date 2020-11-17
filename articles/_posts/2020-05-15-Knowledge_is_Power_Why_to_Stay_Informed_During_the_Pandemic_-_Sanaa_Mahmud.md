@@ -2,8 +2,7 @@
 author: smahmud
 image: assets/images/2020-05-15-Knowledge_is_Power_Why_to_Stay_Informed_During_the_Pandemic_-_Sanaa_Mahmud_photo.jpg
 layout: post
-tags:
-- featured
+tags: [featured]
 title: 'Knowledge is Power: Why to Stay Informed During the Pandemic'
 ---
 

@@ -2,8 +2,7 @@
 author: lbaumgart
 image: assets/images/2020-05-01-So_Much_for_Reconciliation_-_Luke_Baumgart_photo.jpg
 layout: post
-tags:
-- featured
+tags: [featured]
 title: So Much for 'Reconciliation'
 ---
 
