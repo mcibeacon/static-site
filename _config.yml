@@ -1,6 +1,6 @@
 # Site
 name: "The Beacon"
-description: "The Beacon is Martingrove's newspaper."
+description: "The Beacon is MCI's newspaper."
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 baseurl: ""
@@ -53,9 +53,14 @@ exclude:
     Gruntfile.coffee,
     node_modules,
     vendor,
+    Gemfile,
+    Gemfile.lock,
   ]
 
 keep_files: [CNAME,.git,]
+
+
+# Add new authors to the bottom
 
 authors:
   unknown:
@@ -131,12 +136,10 @@ authors:
     bio: "Columnist."
     instagram: https://instagram.com/mcibeacon
 
-
   ntelesford:
     name: "Naomi Telesford"
     bio: "Contributor."
     instagram: https://instagram.com/mcibeacon
-
 
   mhutzul:
     name: "Maya Hutzul"
@@ -212,7 +215,6 @@ authors:
     name: "Emily Kim"
     bio: "Copy Editor."
     instagram: https://instagram.com/mcibeacon
-
 
   lbaumgart:
     name: "Luke Baumgart"
