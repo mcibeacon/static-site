@@ -1,6 +1,6 @@
 ---
 author: sliao
-image: assets/images/2020-04-30-Podcast_Pontifications_-_Susanna_Liao_photo.PNG
+image: assets/images/2020-04-30-Podcast_Pontifications_-_Susanna_Liao_photo.jpg
 layout: post
 tags: [featured]
 title: Podcast Pontifications
