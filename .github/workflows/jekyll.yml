@@ -1,0 +1,31 @@
+name: Jekyll Build and Deploy
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false # github-pages-deploy-action requires this
+
+      - name: Setup ruby and build
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+          bundler-cache: true
+        run: |
+          bundle exec jekyll build
+          echo mcibeacon.ml > _site/CNAME
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: html
+          FOLDER: _site
+          SINGLE_COMMIT: true
