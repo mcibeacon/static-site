@@ -30,3 +30,5 @@ jobs:
           BRANCH: html
           FOLDER: _site
           SINGLE_COMMIT: true
+          GIT_CONFIG_NAME: gha-bot
+          GIT_CONFIG_EMAIL: bot@example.com
