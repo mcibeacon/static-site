@@ -76,11 +76,6 @@ authors:
     bio: "Editor-in-Chief."
     instagram: https://instagram.com/mcibeacon
 
-  tharlow:
-    name: "Tashema Harlow"
-    bio: "Graduated"
-    instagram: https://instagram.com/mcibeacon
-
   ewong:
     name: "Emma Wong"
     bio: "Copy Editor."
@@ -93,22 +88,12 @@ authors:
 
   cmac:
     name: "Cole Anthony Capilongo"
-    bio: "Website Team Head"
-    instagram: https://instagram.com/mcibeacon
-
-  jvilladarez:
-    name: "Jeremy Ricci Villadarez"
-    bio: "Previous Photography Head."
+    bio: "Website Team Head."
     instagram: https://instagram.com/mcibeacon
 
   ssagar:
     name: "Swamini Sagar"
     bio: "Photography Head."
-    instagram: https://instagram.com/mcibeacon
-
-  pdhugga:
-    name: "Parneet Dhugga"
-    bio: "Previous Comic and Illustration Head."
     instagram: https://instagram.com/mcibeacon
 
   mmohammed:
@@ -119,11 +104,6 @@ authors:
   rmatharu:
     name: "Rhea Matharu"
     bio: "Production Head."
-    instagram: https://instagram.com/mcibeacon
-
-  tpatel:
-    name: "Tvisha Patel"
-    bio: "Previous Secretary."
     instagram: https://instagram.com/mcibeacon
 
   smahmud:
@@ -161,28 +141,8 @@ authors:
     bio: "Publicity."
     instagram: https://instagram.com/mcibeacon
 
-  aansah:
-    name: "Ama Ansah"
-    bio: "Previous General Council Member."
-    instagram: https://instagram.com/mcibeacon
-
-  eliang:
-    name: "Ethan Liang"
-    bio: "Previous General Council Member."
-    instagram: https://instagram.com/mcibeacon
-
-  mdominguez-schatz:
-    name: "Micah Dominguez-Schatz"
-    bio: "Previous Contributor."
-    instagram: https://instagram.com/mcibeacon
-
   ifuse-katayama:
     name: "Ira Fuse-Katayama"
-    bio: "Previous Contributor."
-    instagram: https://instagram.com/mcibeacon
-
-  sgehlaut:
-    name: "Sara Gehlaut"
     bio: "Previous Contributor."
     instagram: https://instagram.com/mcibeacon
 
@@ -191,18 +151,8 @@ authors:
     bio: "Columnist."
     instagram: https://instagram.com/mcibeacon
 
-  cmiszkiel:
-    name: "Caroline Miszkiel"
-    bio: "Previous Contributor."
-    instagram: https://instagram.com/mcibeacon
-
   amehta:
     name: "Ambika Mehta"
-    bio: "Previous Contributor."
-    instagram: https://instagram.com/mcibeacon
-
-  ezhang:
-    name: "Elena Zhang"
     bio: "Previous Contributor."
     instagram: https://instagram.com/mcibeacon
 
@@ -228,7 +178,7 @@ authors:
 
   sliao:
     name: "Susanna Liao"
-    bio: "Web Team(exec)."
+    bio: "Web Team."
     instagram: https://instagram.com/mcibeacon
 
   dbrebeanu:
@@ -269,7 +219,7 @@ authors:
 
   ssahni:
     name: "Siya Sahni"
-    bio: "Web Team."
+    bio: "Publicity."
     instagram: https://instagram.com/mcibeacon
 
   jgordon:
@@ -305,4 +255,9 @@ authors:
   geaton:
     name: "Grace Eaton"
     bio: "Secretary."
+    instagram: https://instagram.com/mcibeacon
+
+  sranjha:
+    name: "Sally Ranjha"
+    bio: "Columnist."
     instagram: https://instagram.com/mcibeacon
