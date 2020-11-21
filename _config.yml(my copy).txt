@@ -78,6 +78,7 @@ authors:
 
   tharlow:
     name: "Tashema Harlow"
+<<<<<<< HEAD
     bio: "Graduated"
     instagram: https://instagram.com/mcibeacon
 
@@ -93,6 +94,7 @@ authors:
 
   cmac:
     name: "Cole Anthony Capilongo"
+<<<<<<< HEAD
     bio: "Website Team Head"
     instagram: https://instagram.com/mcibeacon
 
@@ -153,6 +155,7 @@ authors:
 
   epark:
     name: "Emily Park"
+<<<<<<< HEAD
     bio: "Publicity."
     instagram: https://instagram.com/mcibeacon
 
@@ -228,6 +231,7 @@ authors:
 
   sliao:
     name: "Susanna Liao"
+<<<<<<< HEAD
     bio: "Web Team(exec)."
     instagram: https://instagram.com/mcibeacon
 
@@ -240,4 +244,5 @@ authors:
   sranjha:
     name: "Sally Ranjha"
     bio: "Columnist."
+>>>>>>> b7f4ad6258d1874e4f64c1d3ae53403cbcebca47
     instagram: https://instagram.com/mcibeacon
