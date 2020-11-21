@@ -8,7 +8,7 @@
                     <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
                 </h6>
                 <span class="d-block text-muted">
-                    By <a class="text-dark" href="{{site.baseurl}}/author-{{ site.authors[post.author].name | downcase | rstrip | replace: " ", "-" }}">{{ site.authors[post.author].name }}</a>
+                    By <a class="text-dark" href="{{site.baseurl}}/member/{{ site.authors[post.author].name | downcase | rstrip | replace: " ", "-" }}">{{ site.authors[post.author].name }}</a>
                 </span>
             </span>
             </li>                

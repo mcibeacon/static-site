@@ -19,10 +19,10 @@ layout: default
                     <h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
                     <div class="d-flex align-items-center">
                         {% if author.avatar %}
-                            <a href="{{site.baseurl}}/author-{{ author.name | downcase | rstrip | replace: " ", "-" }}"><img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/></a>
+                            <a href="{{site.baseurl}}/member/{{ author.name | downcase | rstrip | replace: " ", "-" }}"><img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/></a>
                         {% endif %}
                         <small class="ml-3">
-                            <a class="text-dark2" href="{{site.baseurl}}/author-{{ author.name | downcase | rstrip | replace: " ", "-" }}">
+                            <a class="text-dark2" href="{{site.baseurl}}/member/{{ author.name | downcase | rstrip | replace: " ", "-" }}">
                                 {{ author.name }}
                             </a>
                             <span>

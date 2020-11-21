@@ -60,7 +60,7 @@ exclude:
 keep_files: [CNAME,.git,]
 
 
-# Add new authors to the bottom
+# Add new members to the bottom
 
 authors:
   unknown:
