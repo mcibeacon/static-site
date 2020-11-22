@@ -4,7 +4,7 @@ description: "The Beacon is MCI's newspaper."
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 baseurl: ""
-email: "fake@gmail.com"
+email: "mcibeacon.contact@gmail.com"
 instagram: "https://instagram.com/mcibeacon"
 
 include: ["_pages"]
