@@ -69,195 +69,233 @@ authors:
     bio: "If you see this, something went wrong, and this page has no author set up for it."
     email: mcibeacon@gmail.com
     instagram: https://instagram.com/mcibeacon
+    visible: false
 
   srao:
     name: "Surbhi Rao"
     #avatar: assets/images/surbhi-rao.jpg
     bio: "Editor-in-Chief."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   ewong:
     name: "Emma Wong"
     bio: "Copy Editor."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   anaing:
     name: "April Naing"
     bio: "Copy Editor."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   cmac:
     name: "Cole Anthony Capilongo"
     bio: "Website Team Head."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   ssagar:
     name: "Swamini Sagar"
     bio: "Photography Head."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   mmohammed:
     name: "Muna Mohammed"
     bio: "Publicity and Fundraising Head."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   rmatharu:
     name: "Rhea Matharu"
     bio: "Copy Editor."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   smahmud:
     name: "Sanaa Mahmud"
     bio: "Copy Editor."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   hnur:
     name: "Huda Nur"
     bio: "Previous Columnist."
     instagram: https://instagram.com/mcibeacon
+    visible: false
 
   ntelesford:
     name: "Naomi Telesford"
     bio: "Previous Contributor."
     instagram: https://instagram.com/mcibeacon
+    visible: false
 
   mhutzul:
     name: "Maya Hutzul"
     bio: "Copy Editor."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   lli:
     name: "Linda Li"
     bio: "Previous Columnist."
     instagram: https://instagram.com/mcibeacon
+    visible: false
 
   epark:
     name: "Emily Park"
     bio: "Publicity."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   lbalakrishnan:
     name: "Lavini Balakrishnan"
     bio: "Publicity."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   ifuse-katayama:
     name: "Ira Fuse-Katayama"
     bio: "Previous Contributor."
     instagram: https://instagram.com/mcibeacon
+    visible: false
 
   nyotis:
     name: "Nicole Yotis"
     bio: "Columnist."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   amehta:
     name: "Ambika Mehta"
     bio: "Previous Contributor."
     instagram: https://instagram.com/mcibeacon
+    visible: false
 
   rsyed:
     name: "Rida Syed"
     bio: "Comics and Illustrations Co-Head."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   ekim:
     name: "Emily Kim"
     bio: "Editor-in-Chief."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   lbaumgart:
     name: "Luke Baumgart"
     bio: "Previous Contributor."
     instagram: https://instagram.com/mcibeacon
+    visible: false
 
   aaden-sabriye:
     name: "Aaliyah Aden-Sabriye"
     bio: "Previous Contributor."
     instagram: https://instagram.com/mcibeacon
+    visible: false
 
   sliao:
     name: "Susanna Liao"
     bio: "Web Team."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   dbrebeanu:
     name: "Diana Brebeanu"
     bio: "Columnist."
     instagram: https://instagram.com/mcibeacon
-
+    visible: true
 
   sranjha:
     name: "Sally Ranjha"
     bio: "Columnist."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   cwei:
     name: "Chloe Wei"
     bio: "Copy Council."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   eca:
     name: "Emil Capilongo Anthony"
     bio: "Copy Council."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   smehta:
     name: "Sia Mehta"
     bio: "Copy Council."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   sxiang:
     name: "Skyler Xiang"
     bio: "Copy Council."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   athakur:
     name: "Advaith Thakur"
     bio: "Web Team."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   ssahni:
     name: "Siya Sahni"
     bio: "Publicity."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   jgordon:
     name: "Jack Gordon"
     bio: "Web Team."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   labeyratne:
     name: "Liren Abeyratne"
     bio: "Web Team."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   abibiresanmi:
     name: "Anjie Bibiresanmi"
     bio: "Publicity Assistant Head."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   rkumar:
     name: "Rohan Kumar"
     bio: "Publicity."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   ksukhija:
     name: "Khushi Sukhija"
     bio: "Comic and Illustrations Co-Head."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   rdrummond:
     name: "Riley Drummond"
     bio: "Comic and Illustrations."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   geaton:
     name: "Grace Eaton"
     bio: "Secretary."
     instagram: https://instagram.com/mcibeacon
+    visible: true
 
   sranjha:
     name: "Sally Ranjha"
     bio: "Columnist."
     instagram: https://instagram.com/mcibeacon
+    visible: true
