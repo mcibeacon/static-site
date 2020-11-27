@@ -65,7 +65,7 @@ keep_files: [CNAME,.git,]
 authors:
   unknown:
     name: Unknown
-    avatar: assets/images/avatar1.jpg
+    avatar: assets/images/avatars/unknown.jpg
     bio: "If you see this, something went wrong, and this page has no author set up for it."
     email: mcibeacon@gmail.com
     instagram: https://instagram.com/mcibeacon
