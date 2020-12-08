@@ -73,7 +73,6 @@ authors:
 
   srao:
     name: "Surbhi Rao"
-    #avatar: assets/images/surbhi-rao.jpg
     bio: "Editor-in-Chief."
     instagram: https://instagram.com/mcibeacon
     visible: true
@@ -116,8 +115,9 @@ authors:
 
   smahmud:
     name: "Sanaa Mahmud"
+    avatar: assets/images/avatars/sanaa-mahmud.jpg
     bio: "Copy Editor."
-    instagram: https://instagram.com/mcibeacon
+    instagram: https://instagram.com/sanaamahmud_
     visible: true
 
   hnur:
@@ -146,12 +146,14 @@ authors:
 
   epark:
     name: "Emily Park"
+    avatar: assets/images/avatars/emily-park.jpg
     bio: "Publicity."
-    instagram: https://instagram.com/mcibeacon
+    instagram: https://instagram.com/emilypark___
     visible: true
 
   lbalakrishnan:
     name: "Lavini Balakrishnan"
+    avatar: assets/images/avatars/lavini-balakrishnan.jpg
     bio: "Publicity."
     instagram: https://instagram.com/mcibeacon
     visible: true
@@ -200,14 +202,16 @@ authors:
 
   sliao:
     name: "Susanna Liao"
+    avatar: assets/images/avatars/susanna-liao.jpg
     bio: "Web Team."
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   dbrebeanu:
     name: "Diana Brebeanu"
+    avatar: assets/images/avatars/diana-brebeanu.jpg
     bio: "Columnist."
-    instagram: https://instagram.com/mcibeacon
+    instagram: https://instagram.com/diana.br__
     visible: true
 
   sranjha:
@@ -230,14 +234,15 @@ authors:
 
   smehta:
     name: "Sia Mehta"
+    avatar: assets/images/avatars/sia-mehta.jpg
     bio: "Copy Council."
-    instagram: https://instagram.com/mcibeacon
+    instagram: https://instagram.com/siaamehta
     visible: true
 
   sxiang:
     name: "Skyler Xiang"
     bio: "Copy Council."
-    instagram: https://instagram.com/mcibeacon
+    instagram: https://instagram.com/skchuylear
     visible: true
 
   athakur:
@@ -278,6 +283,7 @@ authors:
 
   ksukhija:
     name: "Khushi Sukhija"
+    avatar: assets/images/avatars/khushi-sukhija.jpg
     bio: "Comic and Illustrations Co-Head."
     instagram: https://instagram.com/mcibeacon
     visible: true
