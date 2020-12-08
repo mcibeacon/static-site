@@ -117,12 +117,12 @@ layout: default
                 <div class="row mt-5">
                     <div class="col-md-2 align-self-center">
                         {% if author.avatar %}
-                            <a href="{{site.baseurl}}/author-{{ author.name | downcase | rstrip | replace: " ", "-" }}"><img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/></a>
+                            <a href="{{site.baseurl}}/member/{{ author.name | downcase | rstrip | replace: " ", "-" }}"><img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/></a>
                         {% endif %}
                     </div>
                     <div class="col-md-10">
                         <h5 class="font-weight-bold">
-                            <a class="text-dark2" href="{{site.baseurl}}/author-{{ author.name | downcase | rstrip | replace: " ", "-" }}">Written
+                            <a class="text-dark2" href="{{site.baseurl}}/member/{{ author.name | downcase | rstrip | replace: " ", "-" }}">Written
                                                                                                                                                                                                 							by
                                 {{ author.name }}</a>
                             {% if author.instagram %}
