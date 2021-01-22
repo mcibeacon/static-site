@@ -1,6 +1,6 @@
 ---
 author: smehta
-image: assets/images/2020-12-17-Sonder_Why_It_Is_More_Meaningful_Than_Ever.jpeg
+image: assets/images/2020-12-17-Sonder_Why_It_Is_More_Meaningful_Than_Ever.jpg
 layout: post
 tags: []
 title: "Sonder: Why It Is More Meaningful Than Ever"
