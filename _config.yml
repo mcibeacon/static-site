@@ -297,6 +297,7 @@ authors:
   geaton:
     name: "Grace Eaton"
     bio: "Secretary."
+    avatar: assets/images/avatars/grace-eaton.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
