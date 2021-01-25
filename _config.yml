@@ -65,7 +65,7 @@ keep_files: [CNAME,.git,]
 authors:
   unknown:
     name: Unknown
-    avatar: assets/images/avatars/unknown.jpg
+    avatar: assets/images/avatars/default.png
     bio: "If you see this, something went wrong, and this page has no author set up for it."
     email: mcibeacon@gmail.com
     instagram: https://instagram.com/mcibeacon
@@ -74,42 +74,49 @@ authors:
   srao:
     name: "Surbhi Rao"
     bio: "Editor-in-Chief."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   ewong:
     name: "Emma Wong"
     bio: "Copy Editor."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   anaing:
     name: "April Naing"
     bio: "Copy Editor."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   cmac:
     name: "Cole Anthony Capilongo"
     bio: "Website Team Head."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   ssagar:
     name: "Swamini Sagar"
     bio: "Photography Head."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   mmohammed:
     name: "Muna Mohammed"
     bio: "Publicity and Fundraising Head."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   rmatharu:
     name: "Rhea Matharu"
     bio: "Copy Editor."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -123,24 +130,28 @@ authors:
   hnur:
     name: "Huda Nur"
     bio: "Previous Columnist."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   ntelesford:
     name: "Naomi Telesford"
     bio: "Previous Contributor."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   mhutzul:
     name: "Maya Hutzul"
     bio: "Copy Editor."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   lli:
     name: "Linda Li"
     bio: "Previous Columnist."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
@@ -161,42 +172,49 @@ authors:
   ifuse-katayama:
     name: "Ira Fuse-Katayama"
     bio: "Previous Contributor."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   nyotis:
     name: "Nicole Yotis"
     bio: "Columnist."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   amehta:
     name: "Ambika Mehta"
     bio: "Previous Contributor."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   rsyed:
     name: "Rida Syed"
     bio: "Comics and Illustrations Co-Head."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   ekim:
     name: "Emily Kim"
     bio: "Editor-in-Chief."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   lbaumgart:
     name: "Luke Baumgart"
     bio: "Previous Contributor."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   aaden-sabriye:
     name: "Aaliyah Aden-Sabriye"
     bio: "Previous Contributor."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
@@ -217,18 +235,21 @@ authors:
   sranjha:
     name: "Sally Ranjha"
     bio: "Columnist."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   cwei:
     name: "Chloe Wei"
     bio: "Copy Council."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   eca:
     name: "Emil Capilongo Anthony"
     bio: "Copy Council."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -242,42 +263,49 @@ authors:
   sxiang:
     name: "Skyler Xiang"
     bio: "Copy Council."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/skchuylear
     visible: true
 
   athakur:
     name: "Advaith Thakur"
     bio: "Web Team."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   ssahni:
     name: "Siya Sahni"
     bio: "Publicity."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   jgordon:
     name: "Jack Gordon"
     bio: "Web Team."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   labeyratne:
     name: "Liren Abeyratne"
     bio: "Web Team."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   abibiresanmi:
     name: "Anjie Bibiresanmi"
     bio: "Publicity Assistant Head."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   rkumar:
     name: "Rohan Kumar"
     bio: "Publicity."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -291,6 +319,7 @@ authors:
   rdrummond:
     name: "Riley Drummond"
     bio: "Comic and Illustrations."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -304,11 +333,13 @@ authors:
   sranjha:
     name: "Sally Ranjha"
     bio: "Columnist."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   sjain:
     name: "Suryakant Jain"
     bio: "Model United Nations Contributor."
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
