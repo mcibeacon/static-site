@@ -69,12 +69,9 @@ one, be reminded of each one’s singularity. Marvel at the beauty of
 nature, and its ability to create billions of entities, each being
 exceptional and irreplicable.
 
-Sources:
+Sources:\
+[*https://science.howstuffworks.com/nature/climate-weather/atmospheric/is-every-snowflake-actually-unique.htm*](https://science.howstuffworks.com/nature/climate-weather/atmospheric/is-every-snowflake-actually-unique.htm)\
+[*https://www.dw.com/en/life-cycle-of-a-snowflake/g-18148333\#:\~:text=It%20takes%20about%20an%20hour,more%20humidity%20cause%20larger%20flakes*](https://www.dw.com/en/life-cycle-of-a-snowflake/g-18148333#:~:text=It%20takes%20about%20an%20hour,more%20humidity%20cause%20larger%20flakes)
 
-[*https://science.howstuffworks.com/nature/climate-weather/atmospheric/is-every-snowflake-actually-unique.htm*](https://science.howstuffworks.com/nature/climate-weather/atmospheric/is-every-snowflake-actually-unique.htm)
-
-[*https://www.dw.com/en/life-cycle-of-a-snowflake/g-18148333\#:\~:text=It%20takes%20about%20an%20hour,more%20humidity%20cause%20larger%20flakes*](https://www.dw.com/en/life-cycle-of-a-snowflake/g-18148333#:~:text=It%20takes%20about%20an%20hour,more%20humidity%20cause%20larger%20flakes).
-
-Image Source:
-
+Image Source:\
 [*https://www.chemistryworld.com/news/what-makes-a-snowflake-special/3008386.article*](https://www.chemistryworld.com/news/what-makes-a-snowflake-special/3008386.article)
