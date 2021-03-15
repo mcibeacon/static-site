@@ -1,6 +1,6 @@
 ---
 author: dbrebeanu
-image: assets/images/TheGraviton.png
+image: assets/images/TheGraviton.jpg
 layout: post
 tags: []
 title: "The Graviton: Future Fuel"
