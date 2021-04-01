@@ -28,6 +28,16 @@
         <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
         <script crossorigin="anonymous" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
+        <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+        <style>
+        img.emoji {
+           height: 1em;
+           width: 1em;
+           margin: 0 .05em 0 .1em;
+           vertical-align: -0.1em;
+        }
+        </style>
+
         {% include tracking-header.html %}
 
 
@@ -94,6 +104,10 @@
                 </div>
             </div>
         </footer>
+
+        <script>
+        twemoji.parse(document.body);
+        </script>
 
         {% include tracking-footer.html %}
 
