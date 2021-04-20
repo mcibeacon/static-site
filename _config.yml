@@ -74,8 +74,8 @@ authors:
   srao:
     name: "Surbhi Rao"
     bio: "Editor-in-Chief."
-    avatar: assets/images/avatars/default.png
-    instagram: https://instagram.com/mcibeacon
+    avatar: assets/images/avatars/surbhi-rao.jpg
+    instagram: https://instagram.com/s.urbhirao
     visible: true
 
   ewong:
@@ -102,7 +102,7 @@ authors:
   ssagar:
     name: "Swamini Sagar"
     bio: "Photography Head."
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/ssagar.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -340,6 +340,6 @@ authors:
   sjain:
     name: "Suryakant Jain"
     bio: "Model United Nations Contributor."
-    avatar: assets/images/avatars/default.png
-    instagram: https://instagram.com/mcibeacon
+    avatar: assets/images/avatars/sjain.jpg
+    instagram: https://instagram.com/skvj21
     visible: true
