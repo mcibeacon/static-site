@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: page-sidebar
-image: "/assets/images/beacon.jpg"
+image: "/assets/images/special/about.jpg"
 ---
 
 *The Beacon* is Martingrove's official newspaper, printing full page newspaper issues ("Beacons") and smaller
