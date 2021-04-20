@@ -52,20 +52,20 @@
         <nav class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top" id="MagicMenu">
             <div class="container">
                 <a class="navbar-brand" href="{{ site.baseurl }}/">
-                    <strong>{{site.name}}</strong>
+                    <img src="/assets/images/special/header.png" />
                 </a>
                 <button aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler collapsed" data-target="#navbarColor02" data-toggle="collapse" type="button">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse" id="navbarColor02" style="">
-                    <ul class="navbar-nav mr-auto d-flex align-items-center">
-                        {% include menu-header.html %}
-                    </ul>
-                    <ul class="navbar-nav ml-auto d-flex align-items-center">
-                        {% include search-lunr.html %}
-                    </ul>
-                </div>
             </div>
+            <div class="navbar-collapse collapse" id="navbarColor02" style="">
+                                <ul class="navbar-nav mr-auto d-flex align-items-center">
+                                    {% include menu-header.html %}
+                                </ul>
+                                <ul class="navbar-nav ml-auto d-flex align-items-center">
+                                    {% include search-lunr.html %}
+                                </ul>
+                            </div>
         </nav>
 
         <!-- Search Results -->

@@ -207,6 +207,21 @@ a.text-dark:hover {
 	font-size:1.55rem;
     font-family:"Georgia","Times New Roman",serif;
 }
+
+/* Limit header image size on desktop */
+@media (min-width: 768px) {
+    .navbar-brand {
+        width: 25%;   
+    }
+}
+
+/* Keep dropdown button beside header image on mobile */
+@media (max-width: 768px) {
+    .navbar > .container {
+        flex-wrap: nowrap;
+    }
+}
+
 .dropdown-item {
 	font-weight:400;
 }
