@@ -342,3 +342,10 @@ authors:
     avatar: assets/images/avatars/sjain.jpg
     instagram: https://instagram.com/skvj21
     visible: true
+
+  jseong:
+    name: "John Seong"
+    bio: "Web Team."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram/johnseongemini8
+    visible: true
