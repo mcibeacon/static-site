@@ -2,6 +2,11 @@
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
 
+.topfirstimage {
+    /* makeworld: Center cropping an image usually looks better */
+    background-position: center center;
+}
+
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
