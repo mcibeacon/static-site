@@ -12,7 +12,7 @@ We’re bringing it full circle folks!*
 
 *I’ll pass it on to grade-9-Surbhi. We’ll talk again at the end.*
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+---
 
 During the summer, family and friends would ask me what grade I was in,
 so I’d tell them I was going to start ninth grade. I’d always get the
@@ -46,7 +46,7 @@ it makes me feel secure and protected. These desks are no longer
 obstacles in my mind. I’m starting to feel like a real bear. Now I just
 need to figure out where my geography class is.
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+---
 
 ***Note from grade-12-Surbhi:** Hello again! Though we haven’t gotten to
 see our beloved cross-bred seats much this year, I hope you could still
