@@ -1,21 +1,14 @@
 ---
 author: rmatharu
-image: assets/images/Canada’sDarkTruthMissingandMurderedIndigenousWomen.jpg
+image: assets/images/canadas_dark_truth.jpg
 layout: post
 tags: []
-title: "Canada’s Dark Truth Missing and Murdered Indigenous Women"
+title: "Canada’s Dark Truth: Missing and Murdered Indigenous Women"
 ---
-
-**Canada’s Dark Truth: Missing and Murdered Indigenous Women**
-
-***RHEA MATHARU***
-
-*GR. 12 COPY EDITOR*
 
 ***Content warning:** This article discusses the Missing and Murdered
 Indigenous Women and Girls crisis.*
 
-![](media/image1.png)
 
 *B.C. Gathering for families of missing and murdered Indigenous women
 and girls (BC Gov Photos)*
