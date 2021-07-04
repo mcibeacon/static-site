@@ -3,7 +3,7 @@ author: smahmud
 image: assets/images/how-summer-affects-your-mental-health.jpg
 layout: post
 tags: []
-title: "How Summer Affects Your Mental Health"
+title: "Summer and Warm Weather: Your Mood Booster"
 ---
 Look out the window: do you see the sun shining brightly onto the green
 grass? This is just one of many signs the summer months are within
