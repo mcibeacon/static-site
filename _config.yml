@@ -349,3 +349,10 @@ authors:
     avatar: assets/images/avatars/default.png
     instagram: https://instagram/johnseongemini8
     visible: true
+
+  amarchetti:
+    name: "Amanda Marchetti"
+    bio: "Columnist."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram/mcibeacon
+    visible: true
