@@ -100,5 +100,6 @@ would recommend making this a double feature and watching the sequel
 I hope you enjoy the suggestions. Have a great Halloween, and remember,
 as Ron Burgundy says: “Stay classy San Diego”!
 
-*Creative Commons:
-https://search.creativecommons.org/photos/8c84050e-153b-47bc-add3-77f51a4f9167*
+Image source: Creative Commons
+
+[*https://search.creativecommons.org/photos/8c84050e-153b-47bc-add3-77f51a4f9167*](https://search.creativecommons.org/photos/8c84050e-153b-47bc-add3-77f51a4f9167)
