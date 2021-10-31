@@ -311,7 +311,7 @@ authors:
   ksukhija:
     name: "Khushi Sukhija"
     avatar: assets/images/avatars/khushi-sukhija.jpg
-    bio: "Comic and Illustrations Co-Head."
+    bio: "Production Head and Comic and Illustrations Co-Head."
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -347,19 +347,138 @@ authors:
     name: "John Seong"
     bio: "Former Web Team."
     avatar: assets/images/avatars/default.png
-    instagram: https://instagram/johnseongemini8
+    instagram: https://instagram.com/johnseongemini8
     visible: true
 
   amarchetti:
     name: "Amanda Marchetti"
-    bio: "Columnist."
+    bio: "Copy Council."
     avatar: assets/images/avatars/default.png
-    instagram: https://instagram/mcibeacon
+    instagram: https://instagram.com/mcibeacon
     visible: true
 
   awong:
     name: "Alisha Wong"
-    bio: "Columnist."
+    bio: "Copy Council."
     avatar: assets/images/avatars/default.png
-    instagram: https://instagram/mcibeacon
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  fsheikh:
+    name: "Fiza Sheikh"
+    bio: "Copy Council."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  sranja:
+    name: "Saleha Ranja"
+    bio: "Copy Council."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  cchen:
+    name: "Cynthia Chen"
+    bio: "Layout."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  aschreder:
+    name: "Aidan Schreder"
+    bio: "Layout and Phtography."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  nlang:
+    name: "Natalie Lang"
+    bio: "Layout."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  rtilva:
+    name: "Ruchi Tilva"
+    bio: "Comics and Illustrations."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  lqureshi:
+    name: "Luqman Qureshi"
+    bio: "Comics and Illustrations."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  kbright:
+    name: "Keara Bright"
+    bio: "Comics and Illustrations."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  mqadeer:
+    name: "Muhammad Qadeer"
+    bio: "Web Team."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  jpatel:
+    name: "Jay Patel"
+    bio: "Web Team."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  nnaveed:
+    name: "Nayab Naveed"
+    bio: "Photography."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  twilliams:
+    name: "Tessa Williams"
+    bio: "Photography."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  mseth:
+    name: "Mira Seth"
+    bio: "Photography."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  jkim:
+    name: "Jennifer Kim"
+    bio: "General."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  ezhang:
+    name: "Elena Zhang"
+    bio: "General."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  dshree:
+    name: "Dave Shree"
+    bio: "General."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  bvicknarasa:
+    name: "Bavitra Vicknarasa"
+    bio: "General."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
     visible: true
