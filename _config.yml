@@ -72,49 +72,49 @@ authors:
 
   srao:
     name: "Surbhi Rao"
-    bio: "Editor-in-Chief."
+    bio: "Former Editor-in-Chief."
     avatar: assets/images/avatars/surbhi-rao.jpg
     instagram: https://instagram.com/s.urbhirao
     visible: true
 
   ewong:
     name: "Emma Wong"
-    bio: "Copy Editor."
+    bio: "Former Copy Editor."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   anaing:
     name: "April Naing"
-    bio: "Copy Editor."
+    bio: "Former Copy Editor."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   cmac:
     name: "Cole Anthony Capilongo"
-    bio: "Website Team Head."
+    bio: "Former Website Team Head."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   ssagar:
     name: "Swamini Sagar"
-    bio: "Photography Head."
+    bio: "Former Photography Head."
     avatar: assets/images/avatars/ssagar.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   mmohammed:
     name: "Muna Mohammed"
-    bio: "Publicity and Fundraising Head."
+    bio: "Former Publicity and Fundraising Head."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   rmatharu:
     name: "Rhea Matharu"
-    bio: "Copy Editor."
+    bio: "Former Copy Editor."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
@@ -122,20 +122,20 @@ authors:
   smahmud:
     name: "Sanaa Mahmud"
     avatar: assets/images/avatars/sanaa-mahmud.jpg
-    bio: "Copy Editor."
+    bio: "Editor-In-Chief."
     instagram: https://instagram.com/sanaamahmud_
     visible: true
 
   hnur:
     name: "Huda Nur"
-    bio: "Previous Columnist."
+    bio: "Former Columnist."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   ntelesford:
     name: "Naomi Telesford"
-    bio: "Previous Contributor."
+    bio: "Former Contributor."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
@@ -149,7 +149,7 @@ authors:
 
   lli:
     name: "Linda Li"
-    bio: "Previous Columnist."
+    bio: "Former Columnist."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
@@ -157,34 +157,34 @@ authors:
   epark:
     name: "Emily Park"
     avatar: assets/images/avatars/emily-park.jpg
-    bio: "Publicity."
+    bio: "Former Publicity."
     instagram: https://instagram.com/emilypark___
     visible: true
 
   lbalakrishnan:
     name: "Lavini Balakrishnan"
     avatar: assets/images/avatars/lavini-balakrishnan.jpg
-    bio: "Publicity."
+    bio: "Publicity/Fundraiser Head."
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   ifuse-katayama:
     name: "Ira Fuse-Katayama"
-    bio: "Previous Contributor."
+    bio: "Former Contributor."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   nyotis:
     name: "Nicole Yotis"
-    bio: "Columnist."
+    bio: "Former Columnist."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   amehta:
     name: "Ambika Mehta"
-    bio: "Previous Contributor."
+    bio: "Former Contributor."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
@@ -198,21 +198,21 @@ authors:
 
   ekim:
     name: "Emily Kim"
-    bio: "Editor-in-Chief."
+    bio: "Former Editor-in-Chief."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   lbaumgart:
     name: "Luke Baumgart"
-    bio: "Previous Contributor."
+    bio: "Former Contributor."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   aaden-sabriye:
     name: "Aaliyah Aden-Sabriye"
-    bio: "Previous Contributor."
+    bio: "Former Contributor."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
@@ -220,34 +220,34 @@ authors:
   sliao:
     name: "Susanna Liao"
     avatar: assets/images/avatars/susanna-liao.jpg
-    bio: "Web Team."
+    bio: "Head Layout Editor."
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   dbrebeanu:
     name: "Diana Brebeanu"
     avatar: assets/images/avatars/diana-brebeanu.jpg
-    bio: "Columnist."
+    bio: "Former Columnist."
     instagram: https://instagram.com/diana.br__
     visible: true
 
   sranjha:
     name: "Sally Ranjha"
-    bio: "Columnist."
+    bio: "Former Columnist."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   cwei:
     name: "Chloe Wei"
-    bio: "Copy Council."
+    bio: "Former Copy Council."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   eca:
     name: "Emil Capilongo Anthony"
-    bio: "Copy Council."
+    bio: "Former Copy Council."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
@@ -268,42 +268,42 @@ authors:
 
   athakur:
     name: "Advaith Thakur"
-    bio: "Web Team."
+    bio: "Secretary."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   ssahni:
     name: "Siya Sahni"
-    bio: "Publicity."
+    bio: "Editor-In-Chief."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   jgordon:
     name: "Jack Gordon"
-    bio: "Web Team."
+    bio: "Web and Layout Team."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   labeyratne:
     name: "Liren Abeyratne"
-    bio: "Web Team."
+    bio: "Website Design Head."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   abibiresanmi:
     name: "Anjie Bibiresanmi"
-    bio: "Publicity Assistant Head."
+    bio: "Former Publicity Assistant Head."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   rkumar:
     name: "Rohan Kumar"
-    bio: "Publicity."
+    bio: "Former Publicity."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
@@ -317,41 +317,48 @@ authors:
 
   rdrummond:
     name: "Riley Drummond"
-    bio: "Comic and Illustrations."
+    bio: "Former Comic and Illustrations."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   geaton:
     name: "Grace Eaton"
-    bio: "Secretary."
+    bio: "Former Secretary."
     avatar: assets/images/avatars/grace-eaton.jpg
     instagram: https://instagram.com/graceaton_
     visible: true
 
   sranjha:
     name: "Sally Ranjha"
-    bio: "Columnist."
+    bio: "Former Columnist."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   sjain:
     name: "Suryakant Jain"
-    bio: "Model United Nations Contributor."
+    bio: "Former Model United Nations Contributor."
     avatar: assets/images/avatars/sjain.jpg
     instagram: https://instagram.com/skvj21
     visible: true
 
   jseong:
     name: "John Seong"
-    bio: "Web Team."
+    bio: "Former Web Team."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram/johnseongemini8
     visible: true
 
   amarchetti:
     name: "Amanda Marchetti"
+    bio: "Columnist."
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram/mcibeacon
+    visible: true
+
+  awong:
+    name: "Alisha Wong"
     bio: "Columnist."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram/mcibeacon
