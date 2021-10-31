@@ -77,13 +77,6 @@ authors:
     instagram: https://instagram.com/s.urbhirao
     visible: true
 
-  ewong:
-    name: "Emma Wong"
-    bio: "Former Copy Editor."
-    avatar: assets/images/avatars/default.png
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
   anaing:
     name: "April Naing"
     bio: "Former Copy Editor."
@@ -94,20 +87,6 @@ authors:
   cmac:
     name: "Cole Anthony Capilongo"
     bio: "Former Website Team Head."
-    avatar: assets/images/avatars/default.png
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
-  ssagar:
-    name: "Swamini Sagar"
-    bio: "Former Photography Head."
-    avatar: assets/images/avatars/ssagar.jpg
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
-  mmohammed:
-    name: "Muna Mohammed"
-    bio: "Former Publicity and Fundraising Head."
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
@@ -153,13 +132,6 @@ authors:
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
-
-  epark:
-    name: "Emily Park"
-    avatar: assets/images/avatars/emily-park.jpg
-    bio: "Former Publicity."
-    instagram: https://instagram.com/emilypark___
-    visible: true
 
   lbalakrishnan:
     name: "Lavini Balakrishnan"
@@ -231,20 +203,6 @@ authors:
     instagram: https://instagram.com/diana.br__
     visible: true
 
-  sranjha:
-    name: "Sally Ranjha"
-    bio: "Former Columnist."
-    avatar: assets/images/avatars/default.png
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
-  cwei:
-    name: "Chloe Wei"
-    bio: "Former Copy Council."
-    avatar: assets/images/avatars/default.png
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
   eca:
     name: "Emil Capilongo Anthony"
     bio: "Former Copy Council."
@@ -294,45 +252,10 @@ authors:
     instagram: https://instagram.com/mcibeacon
     visible: true
 
-  abibiresanmi:
-    name: "Anjie Bibiresanmi"
-    bio: "Former Publicity Assistant Head."
-    avatar: assets/images/avatars/default.png
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
-  rkumar:
-    name: "Rohan Kumar"
-    bio: "Former Publicity."
-    avatar: assets/images/avatars/default.png
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
   ksukhija:
     name: "Khushi Sukhija"
     avatar: assets/images/avatars/khushi-sukhija.jpg
     bio: "Production Head and Comic and Illustrations Co-Head."
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
-  rdrummond:
-    name: "Riley Drummond"
-    bio: "Former Comic and Illustrations."
-    avatar: assets/images/avatars/default.png
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
-  geaton:
-    name: "Grace Eaton"
-    bio: "Former Secretary."
-    avatar: assets/images/avatars/grace-eaton.jpg
-    instagram: https://instagram.com/graceaton_
-    visible: true
-
-  sranjha:
-    name: "Sally Ranjha"
-    bio: "Former Columnist."
-    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
