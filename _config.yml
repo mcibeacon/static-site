@@ -164,7 +164,7 @@ authors:
   lqureshi:
     name: "Luqman Qureshi"
     bio: "Comics and Illustrations."
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/luqman-qureshi.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -199,14 +199,14 @@ authors:
   mseth:
     name: "Mira Seth"
     bio: "Photography."
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/mira-seth.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   labeyratne:
     name: "Liren Abeyratne"
     bio: "Website Design Head."
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/liren-abeyratne.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -220,7 +220,7 @@ authors:
   mqadeer:
     name: "Muhammad Qadeer"
     bio: "Web Team."
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/muhammad-qadeer.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
