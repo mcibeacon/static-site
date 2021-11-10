@@ -80,7 +80,7 @@ authors:
   ssahni:
     name: "Siya Sahni"
     bio: "Editor-In-Chief."
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/siya-sahni.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -122,7 +122,7 @@ authors:
   awong:
     name: "Alisha Wong"
     bio: "Copy Council."
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/alisha-wong.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -207,7 +207,7 @@ authors:
     name: "Liren Abeyratne"
     bio: "Website Design Head."
     avatar: assets/images/avatars/liren-abeyratne.png
-    instagram: https://instagram.com/mcibeacon
+    instagram: https://www.instagram.com/liren.a
     visible: true
 
   jgordon:
@@ -255,7 +255,7 @@ authors:
   nlang:
     name: "Natalie Lang"
     bio: "Layout."
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/natalie-lang.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
