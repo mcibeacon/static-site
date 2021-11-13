@@ -73,20 +73,20 @@ authors:
   smahmud:
     name: "Sanaa Mahmud"
     avatar: assets/images/avatars/sanaa-mahmud.jpg
-    bio: "Editor-In-Chief."
+    bio: "Editor-In-Chief"
     instagram: https://instagram.com/sanaamahmud_
     visible: true
 
   ssahni:
     name: "Siya Sahni"
-    bio: "Editor-In-Chief."
+    bio: "Editor-In-Chief"
     avatar: assets/images/avatars/siya-sahni.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   athakur:
     name: "Advaith Thakur"
-    bio: "Secretary."
+    bio: "Secretary"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
@@ -94,13 +94,13 @@ authors:
   ksukhija:
     name: "Khushi Sukhija"
     avatar: assets/images/avatars/khushi-sukhija.jpg
-    bio: "Production Head and Comic and Illustrations Co-Head."
+    bio: "Production Head and Comic and Illustrations Co-Head"
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   mhutzul:
     name: "Maya Hutzul"
-    bio: "Copy Editor."
+    bio: "Copy Editor"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
@@ -108,125 +108,125 @@ authors:
   smehta:
     name: "Sia Mehta"
     avatar: assets/images/avatars/sia-mehta.jpg
-    bio: "Copy Council."
+    bio: "Copy Council"
     instagram: https://instagram.com/siaamehta
     visible: true
 
   fsheikh:
     name: "Fiza Sheikh"
-    bio: "Copy Council."
+    bio: "Copy Council"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   awong:
     name: "Alisha Wong"
-    bio: "Copy Council."
+    bio: "Copy Council"
     avatar: assets/images/avatars/alisha-wong.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   sxiang:
     name: "Skyler Xiang"
-    bio: "Copy Council."
+    bio: "Copy Council"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/skchuylear
     visible: true
 
   amarchetti:
     name: "Amanda Marchetti"
-    bio: "Copy Council."
+    bio: "Copy Council"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   sranja:
     name: "Saleha Ranja"
-    bio: "Copy Council."
+    bio: "Copy Council"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   rsyed:
     name: "Rida Syed"
-    bio: "Comics and Illustrations Co-Head."
+    bio: "Comics and Illustrations Co-Head"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   rtilva:
     name: "Ruchi Tilva"
-    bio: "Comics and Illustrations."
+    bio: "Comics and Illustrations"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   lqureshi:
     name: "Luqman Qureshi"
-    bio: "Comics and Illustrations."
+    bio: "Comics and Illustrations"
     avatar: assets/images/avatars/luqman-qureshi.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   kbright:
     name: "Keara Bright"
-    bio: "Comics and Illustrations."
+    bio: "Comics and Illustrations"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   nnaveed:
     name: "Nayab Naveed"
-    bio: "Photography."
+    bio: "Photography"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   aschreder:
     name: "Aidan Schreder"
-    bio: "Layout and Photography."
+    bio: "Layout and Photography"
     avatar: assets/images/avatars/aidan-schreder.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   twilliams:
     name: "Tessa Williams"
-    bio: "Photography."
+    bio: "Photography"
     avatar: assets/images/avatars/tessa-williams.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   mseth:
     name: "Mira Seth"
-    bio: "Photography."
+    bio: "Photography"
     avatar: assets/images/avatars/mira-seth.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   labeyratne:
     name: "Liren Abeyratne"
-    bio: "Website Design Head."
+    bio: "Website Design Head"
     avatar: assets/images/avatars/liren-abeyratne.png
     instagram: https://www.instagram.com/liren.a
     visible: true
 
   jgordon:
     name: "Jack Gordon"
-    bio: "Web and Layout Team."
+    bio: "Web and Layout Team"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   mqadeer:
     name: "Muhammad Qadeer"
-    bio: "Web Team."
+    bio: "Web Team"
     avatar: assets/images/avatars/muhammad-qadeer.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   jpatel:
     name: "Jay Patel"
-    bio: "Web Team."
+    bio: "Web Team"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
@@ -234,139 +234,139 @@ authors:
   lbalakrishnan:
     name: "Lavini Balakrishnan"
     avatar: assets/images/avatars/lavini-balakrishnan.jpg
-    bio: "Publicity/Fundraiser Head."
+    bio: "Publicity/Fundraiser Head"
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   sliao:
     name: "Susanna Liao"
     avatar: assets/images/avatars/susanna-liao.jpg
-    bio: "Head Layout Editor."
+    bio: "Head Layout Editor"
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   cchen:
     name: "Cynthia Chen"
-    bio: "Layout."
+    bio: "Layout"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   nlang:
     name: "Natalie Lang"
-    bio: "Layout."
+    bio: "Layout"
     avatar: assets/images/avatars/natalie-lang.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   jkim:
     name: "Jennifer Kim"
-    bio: "General."
+    bio: "General Member"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   ezhang:
     name: "Elena Zhang"
-    bio: "General."
+    bio: "General Member"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   dshree:
     name: "Dave Shree"
-    bio: "General."
+    bio: "General Member"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   bvicknarasa:
     name: "Bavitra Vicknarasa"
-    bio: "General."
+    bio: "General Member"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   srao:
     name: "Surbhi Rao"
-    bio: "Former Editor-in-Chief."
+    bio: "Former Editor-in-Chief"
     avatar: assets/images/avatars/surbhi-rao.jpg
     instagram: https://instagram.com/s.urbhirao
     visible: true
 
   ekim:
     name: "Emily Kim"
-    bio: "Former Editor-in-Chief."
+    bio: "Former Editor-in-Chief"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   anaing:
     name: "April Naing"
-    bio: "Former Copy Editor."
+    bio: "Former Copy Editor"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   rmatharu:
     name: "Rhea Matharu"
-    bio: "Former Copy Editor."
+    bio: "Former Copy Editor"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   hnur:
     name: "Huda Nur"
-    bio: "Former Columnist."
+    bio: "Former Columnist"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   ntelesford:
     name: "Naomi Telesford"
-    bio: "Former Contributor."
+    bio: "Former Contributor"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   lli:
     name: "Linda Li"
-    bio: "Former Columnist."
+    bio: "Former Columnist"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   ifuse-katayama:
     name: "Ira Fuse-Katayama"
-    bio: "Former Contributor."
+    bio: "Former Contributor"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   nyotis:
     name: "Nicole Yotis"
-    bio: "Former Columnist."
+    bio: "Former Columnist"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   amehta:
     name: "Ambika Mehta"
-    bio: "Former Contributor."
+    bio: "Former Contributor"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   lbaumgart:
     name: "Luke Baumgart"
-    bio: "Former Contributor."
+    bio: "Former Contributor"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
 
   aaden-sabriye:
     name: "Aaliyah Aden-Sabriye"
-    bio: "Former Contributor."
+    bio: "Former Contributor"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: false
@@ -374,34 +374,34 @@ authors:
   dbrebeanu:
     name: "Diana Brebeanu"
     avatar: assets/images/avatars/diana-brebeanu.jpg
-    bio: "Former Columnist."
+    bio: "Former Columnist"
     instagram: https://instagram.com/diana.br__
     visible: true
 
   eca:
     name: "Emil Capilongo Anthony"
-    bio: "Former Copy Council."
+    bio: "Former Copy Council"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   sjain:
     name: "Suryakant Jain"
-    bio: "Former Model United Nations Contributor."
+    bio: "Former Model United Nations Contributor"
     avatar: assets/images/avatars/sjain.jpg
     instagram: https://instagram.com/skvj21
     visible: true
 
   cmac:
     name: "Cole Anthony Capilongo"
-    bio: "Former Web Team Head."
+    bio: "Former Web Team Head"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   jseong:
     name: "John Seong"
-    bio: "Former Web Team, Logo Designer."
+    bio: "Former Web Team, Logo Designer"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/johnseongemini8
     visible: true
