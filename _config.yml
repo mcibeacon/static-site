@@ -185,14 +185,14 @@ authors:
   aschreder:
     name: "Aidan Schreder"
     bio: "Layout and Photography."
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/aidan-schreder.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
   twilliams:
     name: "Tessa Williams"
     bio: "Photography."
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/tessa-williams.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
