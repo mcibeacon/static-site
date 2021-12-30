@@ -1,5 +1,6 @@
 ---
 author: amarchetti
+image: assets/images/2021-11-24-Breaking-Down-the-New-Spiderman-Movie-Trailer.jpg
 layout: post
 tags: []
 title: "Breaking Down the New Spiderman Movie Trailer"
@@ -64,7 +65,11 @@ reason why so many people assume Tobey Macguire and Andrew Garfield are
 going to have cameos in this movie, which is any Marvel fan's dream.
 Unfortunately, it has not yet been officially confirmed.
 
-Are you excited for *Far From Home* now that you’ve heard so many
+Are you excited for *No Way Home* now that you’ve heard so many
 breakdowns and theories? I’ll definitely be watching this movie the day
 it comes out and it already looks like one of Marvel's most memorable
 movies yet.
+
+Image source:
+
+[*https://www.theverge.com/2021/2/24/22299339/spider-man-movie-title-no-way-home-tom-holland/*](https://www.theverge.com/2021/2/24/22299339/spider-man-movie-title-no-way-home-tom-holland/)

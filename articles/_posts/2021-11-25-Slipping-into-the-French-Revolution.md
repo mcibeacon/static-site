@@ -58,3 +58,7 @@ variety of different and seemingly harmless factors can contribute to
 disturbances in the nervous system, which may send mixed signals to the
 brain which could alter one’s perception of reality. Timeslips make us
 think if our conscience can be trusted to be honest at all times.
+
+Image source:
+
+[*https://pixels.com/featured/1-palace-of-versailles-pixabay.html/*](https://pixels.com/featured/1-palace-of-versailles-pixabay.html/)

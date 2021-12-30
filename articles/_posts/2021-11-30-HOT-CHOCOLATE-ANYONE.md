@@ -105,4 +105,3 @@ Sources:
 Image source:
 
 [*https://wordpress.org/openverse/photos/1b1f9487-d2d2-4352-a0c1-49d2d3c48b8d/*](https://wordpress.org/openverse/photos/1b1f9487-d2d2-4352-a0c1-49d2d3c48b8d/)
-
