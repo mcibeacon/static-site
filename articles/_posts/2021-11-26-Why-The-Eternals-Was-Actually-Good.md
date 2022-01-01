@@ -59,3 +59,8 @@ a little overstuffed. Nonetheless, it has heart, compelling character
 relationships, and a desire to show an accurate and diverse
 representation of what a superhero should be. This movie is well worth
 the watch!
+
+Image Source:
+
+[*https://www.pulse.ng/entertainment/movies/marvels-eternals-now-showing-in-nigerian-cinemas/c107rbg/*](https://www.pulse.ng/entertainment/movies/marvels-eternals-now-showing-in-nigerian-cinemas/c107rbg/)
+
