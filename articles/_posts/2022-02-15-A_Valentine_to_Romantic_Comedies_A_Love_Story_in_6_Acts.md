@@ -1,6 +1,6 @@
 ---
 author: awong
-image: assets/images/some-photo.jpg
+image: assets/images/2022-02-15-A_Valentine_to_Romantic_Comedies_A_Love_Story_in_6_Acts.jpg
 layout: post
 tags: []
 title: "A Valentine to Romantic Comedies: A Love Story in 6 Acts"
@@ -16,7 +16,7 @@ crashed a wedding (which is a shame, I mean what about that free food?)
 Over the years the rom-com genre has morphed itself to fit the needs and
 desires of the era. In the 1940’s, looking for an escape from the dreary
 war-time conditions, studios released screwball comedies like “His Girl
-Friday”.1950’s filmmakers frustrated by the morally-conservative Hayes
+Friday”. 1950’s filmmakers frustrated by the morally-conservative Hayes
 Code produced innuendo-laden comedies like “The Seven Year Itch”
 (basically anything starring Marilyn Monroe). The 1970’s brought “Harold
 and Maude” and other transgressive films which showed relationships that
@@ -102,7 +102,7 @@ woman finds love and second chances in a small town Hallmark movie.
 However crazy-ex takes a look back at these tropes and applies real work
 logic and consequences to them (albeit in a setting where characters
 will occasionally burst into song). What comes after is a heartfelt look
-at mental illness and the journey to self love,
+at mental illness and the journey to self love.
 
 Running to the Airport/Sailing away in a Boat
 
@@ -115,3 +115,5 @@ comedies. To me, romantic comedies are perfectly represented by the
 “running to the airport scenes” that end many of these films. The big
 speeches are always kind of embarrassing and would never work in real
 life but, they also are endearing and hilarious.
+
+Image taken by [*Mira Seth*](https://mcibeacon.com/member/mira-seth)

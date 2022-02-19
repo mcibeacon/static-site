@@ -1,10 +1,11 @@
 ---
 author: mhutzul
-image: assets/images/some-photo.jpg
+image: assets/images/2022-02-15-What-the-Trucker-Convoy-Says-About-Canadian-Society.jpg
 layout: post
 tags: []
 title: "What the Trucker Convoy Says About Canadian Society"
 ---
+
 There are a few things that I think are fundamentally part of the
 Canadian experience. The first is pointing out every single Canadian
 celebrity on the radio, in a TV show, or in a basketball game. The
@@ -13,12 +14,9 @@ be proud of! We have a 17 percent higher vaccination rate, universal
 healthcare, and Tim Hortons.
 
 On the whole, Canadians have been great about following the strict
-lockdown measures that have been in place sporadically since March of
-2020. We’ve worn our masks, socially distanced, and left the halls of
-MCI for the lonely chaos of virtual school. It’s been a long,
-exhausting couple of years, but we’ve made it out the other side. A
-small but vocal number of Canadians, though, have decided that they’re
-completely done with all the public health mandates.
+lockdown measures that have been in place sporadically since March of 2020. We’ve worn our masks, socially distanced, and left the halls of
+MCI for the lonely chaos of virtual school. It’s been a long, exhausting couple of years, but we’ve made it out the other side. A
+small but vocal number of Canadians, though, have decided that they’re completely done with all the public health mandates.
 
 A convoy of truckers, calling themselves the “Freedom Convoy”, arrived
 in Ottawa on January the 28th, protesting new laws requiring
@@ -59,3 +57,5 @@ long enough. The truckers haven’t just shut down the city of Ottawa.
 They’re putting their desire for personal freedom above the collective
 health of Canadian society, and are showing that right-wing extremism
 isn’t just an American problem - it’s a Canadian one too.
+
+Image taken by [*Nayab Naveed*](https://mcibeacon.com/member/nayab-naveed)
