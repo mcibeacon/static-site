@@ -1,6 +1,6 @@
 ---
 author: gkoceku
-image: assets/images/some-photo.jpg
+image: assets/images/2022-02-15-How-to-Enjoy-Valentine's-Day-When-You're-Single.jpg
 layout: post
 tags: []
 title: "How to Enjoy Valentine's Day When You're Single"
@@ -54,3 +54,5 @@ it can be much more difficult if you are alone. It's easy to feel lonely
 on this day, and it's very hard to get over that feeling of not having
 someone to spend that day with. However, it is still possible to spend
 it doing what makes you happy.
+
+Image taken by [*Aidan Schreder*](https://mcibeacon.com/member/aidan-schreder)
