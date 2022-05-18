@@ -101,7 +101,7 @@ authors:
   mhutzul:
     name: "Maya Hutzul"
     bio: "Copy Editor"
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/maya-hutzul.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -129,7 +129,7 @@ authors:
   sxiang:
     name: "Skyler Xiang"
     bio: "Copy Council"
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/skyler-xiang.jpg
     instagram: https://instagram.com/skchuylear
     visible: true
 
