@@ -64,8 +64,3 @@ today.
 
 Slava Ukraini (*Glory to Ukraine*).
 
-Image source:
-
-[*https://www.science.org/content/article/aid-keeps-researchers-afloat-ukraine*](https://www.science.org/content/article/aid-keeps-researchers-afloat-ukraine)
-
-

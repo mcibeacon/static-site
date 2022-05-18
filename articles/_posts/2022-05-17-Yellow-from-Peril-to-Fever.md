@@ -140,8 +140,3 @@ Canada. Article published November 18, 2021; Last Edited March 30, 2022.
 > Yao, Diamond, Jing H. Wang, and Greg Moreau. 2021. “Model Minority.”
 > The Canadian Encyclopedia.
 > https://www.thecanadianencyclopedia.ca/en/article/model-minority.
-
-Image source:
-
-[*https://www.publichealth.columbia.edu/public-health-now/news/considering-rash-coronavirus-related-bigotry*](https://www.publichealth.columbia.edu/public-health-now/news/considering-rash-coronavirus-related-bigotry)
-
