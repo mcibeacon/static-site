@@ -1,6 +1,6 @@
 ---
 author: awong
-image: assets/images/Strange-Love-Marvel’s-Love-Interest-Problem.jpg
+image: assets/images/2022-05-17-Strange-Love-Marvel’s-Love-Interest-Problem.jpg
 layout: post
 tags: []
 title: "Strange Love: Marvel’s Love Interest Problem"

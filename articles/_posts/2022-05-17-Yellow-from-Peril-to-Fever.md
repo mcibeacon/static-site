@@ -1,6 +1,6 @@
 ---
 author: sxiang
-image: assets/images/Yellow-from-Peril-to-Fever.jpg
+image: assets/images/2022-05-17-Yellow-from-Peril-to-Fever.jpg
 layout: post
 tags: []
 title: "Yellow: from Peril to Fever"
