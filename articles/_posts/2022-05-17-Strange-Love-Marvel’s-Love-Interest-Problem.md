@@ -55,7 +55,3 @@ that's achieved through dialogue between characters. Although fights are
 cool, the moments I remember in movies are dialogue-focused and
 emotional. If the multiverse has infinite possibilities there has to be
 one universe with a well written christine palmer.
-
-Well-written and such an interesting lens to analyze the genre! I agree
-about the closing. Perhaps a one or two more line that links more
-directly to the title (and something witty would fit nicely here.)
