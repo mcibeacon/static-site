@@ -189,13 +189,6 @@ authors:
     instagram: https://www.instagram.com/nayabna03
     visible: true
 
-  aschreder:
-    name: "Aidan Schreder"
-    bio: "Layout and Photography"
-    avatar: assets/images/avatars/aidan-schreder.jpg
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
   twilliams:
     name: "Tessa Williams"
     bio: "Photography"
@@ -215,6 +208,13 @@ authors:
     bio: "Website Design Head"
     avatar: assets/images/avatars/liren-abeyratne.png
     instagram: https://www.instagram.com/liren.a
+    visible: true
+
+  aschreder:
+    name: "Aidan Schreder"
+    bio: "Web Design head"
+    avatar: assets/images/avatars/aidan-schreder.jpg
+    instagram: https://www.instagram.com/awesome_ace_art/
     visible: true
 
   jgordon:
