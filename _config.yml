@@ -86,6 +86,13 @@ authors:
 
   athakur:
     name: "Advaith Thakur"
+    bio: "Managing Editor"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  ssarwari:
+    name: "Sanaa Sarwari"
     bio: "Secretary"
     avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
@@ -147,6 +154,62 @@ authors:
     instagram: https://instagram.com/mcibeacon
     visible: true
 
+  zvassa:
+    name: "Zarra Vassa"
+    bio: "Copy Council"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  hmair:
+    name: "Hannah Mair"
+    bio: "Copy Council"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  ntelesford:
+    name: "Nadine Telesford"
+    bio: "Copy Council"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  ylhamo:
+    name: "Yeshe Lhamo"
+    bio: "Copy Council"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  ylhamo:
+    name: "Yeshe Lhamo"
+    bio: "Copy Council"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  ufaheem:
+    name: "Urwah Faheem"
+    bio: "Copy Council"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  aharris:
+    name: "Aidan Harris"
+    bio: "Copy Council"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  jwu:
+    name: "Julia Wu"
+    bio: "Copy Council"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
   rsyed:
     name: "Rida Syed"
     bio: "Comics and Illustrations Co-Head"
@@ -179,6 +242,27 @@ authors:
     name: "Ellie Jiang"
     bio: "Comics and Illustrations"
     avatar: assets/images/avatars/ellie-jiang.jpg
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  bmartusciello:
+    name: "Benjamin Martusciello"
+    bio: "Comics and Illustrations"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  vlluka:
+    name: "Vera Lluka"
+    bio: "Comics and Illustrations"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  jmccarthy:
+    name: "Joel McCarthy"
+    bio: "Comics and Illustrations"
+    avatar: assets/images/avatars/default.png
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -224,6 +308,41 @@ authors:
     instagram: https://instagram.com/mcibeacon
     visible: true
 
+  snarain:
+    name: "Shyla Narain"
+    bio: "Photography"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  mdosen:
+    name: "Mia Dosen"
+    bio: "Photography"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  mli:
+    name: "Madeline Li"
+    bio: "Photography"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  mabdullah:
+    name: "Muhammad Abdullah"
+    bio: "Photography"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  firdausa:
+    name: "Firdausa"
+    bio: "Photography"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
   labeyratne:
     name: "Liren Abeyratne"
     bio: "Website Design Head"
@@ -238,10 +357,52 @@ authors:
     instagram: https://www.instagram.com/awesome_ace_art/
     visible: true
 
+  smajmunder:
+    name: "Shrey Majmunder"
+    bio: "Web Team"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  sosman:
+    name: "Sumaya Osman"
+    bio: "Web Team"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  aaziz:
+    name: "Ahmad Aziz"
+    bio: "Web Team"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  gpathmasiri:
+    name: "Ganojan Pathmasiri"
+    bio: "Web Team"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  shashmi:
+    name: "Syed Hashmi"
+    bio: "Web Team"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
   jgordon:
     name: "Jack Gordon"
-    bio: "Web and Layout Team"
+    bio: "Web Team"
     avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  rliu:
+    name: "Ryan Liu"
+    bio: "Web Team"
+    avatar: assets/images/avatars/ryan-liu.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
@@ -280,13 +441,6 @@ authors:
     instagram: https://instagram.com/mcibeacon
     visible: true
 
-  rliu:
-    name: "Ryan Liu"
-    bio: "Layout"
-    avatar: assets/images/avatars/ryan-liu.jpg
-    instagram: https://instagram.com/mcibeacon
-    visible: true
-
   sli:
     name: "Susan Li"
     bio: "Layout"
@@ -301,6 +455,33 @@ authors:
     instagram: https://instagram.com/mcibeacon
     visible: true
 
+  danderson:
+    name: "Dylan Anderson"
+    bio: "Layout"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  agolubev:
+    name: "Anthony Golubev"
+    bio: "Layout"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  ewu:
+    name: "Eric Wu"
+    bio: "Layout"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
+  rgordon:
+    name: "Ryan Gordon"
+    bio: "Layout"
+    avatar: assets/images/avatars/default.png
+    instagram: https://instagram.com/mcibeacon
+    visible: true
 
   smahmud:
     name: "Sanaa Mahmud"
