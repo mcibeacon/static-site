@@ -1,5 +1,5 @@
 ---
-author: ntelesford
+author: nadtelesford
 image: assets/images/dealing_with_grief.jpg
 layout: post
 tags: []
