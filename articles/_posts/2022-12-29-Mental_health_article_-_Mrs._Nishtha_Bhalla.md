@@ -1,6 +1,6 @@
 ---
 author: nbhalla
-image: assets/images/Mental_Health-_Theo_Boychev.jpg
+image: assets/images/Mental_Health-_Theo_Boychev.JPG
 layout: post
 tags: []
 title: "Stress Management"
