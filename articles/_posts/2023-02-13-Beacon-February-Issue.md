@@ -1,5 +1,5 @@
 ---
-image: assets/images/2023-02-13-Beacon-February-Issue.jpg
+image: assets/images/2023-02-13-Beacon-February-Issue.JPG
 layout: post
 tags: []
 title: "Beacon February issue - PDF"
