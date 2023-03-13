@@ -112,6 +112,13 @@ authors:
     instagram: https://instagram.com/mcibeacon
     visible: true
 
+  nperlman:
+    name: "Nathan Perlman"
+    bio: "Columnist"
+    avatar: assets/images/avatars/nathan-perlman.jpg
+    instagram: https://instagram.com/mcibeacon
+    visible: true
+
   fsheikh:
     name: "Fiza Sheikh"
     bio: "Copy Council"
@@ -479,7 +486,7 @@ authors:
   rgordon:
     name: "Ryan Gordon"
     bio: "Layout"
-    avatar: assets/images/avatars/default.png
+    avatar: assets/images/avatars/ryan-gordon.jpg
     instagram: https://instagram.com/mcibeacon
     visible: true
 
