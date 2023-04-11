@@ -1,5 +1,5 @@
 ---
-author: ntelesford
+author: nadtelesford
 image: assets/images/2023-02-15-Books_To_Get_You_Into_Reading_for_2023.jpg
 layout: post
 tags: []
