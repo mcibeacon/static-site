@@ -1,5 +1,6 @@
 ---
 author: awong
+image: assets/images/2023-10-23-Atomic-Blonde-My-Night-With-Barbenheimer.jpg
 layout: post
 tags: []
 title: "Atomic Blonde: My night with Barbenheimer"

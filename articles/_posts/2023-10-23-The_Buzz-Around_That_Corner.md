@@ -1,6 +1,6 @@
 ---
 author: rpannu
-image: assets/images/some-photo.jpg
+image: assets/images/2023-10-23-Whats-The-Buzz-Around-The-Corner.jpg
 layout: post
 tags: []
 title: "What’s that Buzz around the Corner?"

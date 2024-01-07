@@ -1,6 +1,6 @@
 ---
 author: dpatel
-image: assets/images/some-photo.jpg
+image: assets/images/2023-10-29-Leadership-Camp-2023.jpg
 layout: post
 tags: []
 title: "Leadership Issue"

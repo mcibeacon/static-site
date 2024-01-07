@@ -1,6 +1,6 @@
 ---
-author: ntelesford
-image: assets/images/some-photo.jpg
+author: nadtelesford
+image: assets/images/2023-10-23-Halloween-Interviews-With-MCI-Teachers.jpg
 layout: post
 tags: []
 title: "Halloween Interviews with MCI teachers"

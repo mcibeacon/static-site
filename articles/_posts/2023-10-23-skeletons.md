@@ -1,5 +1,6 @@
 ---
 author: ntsui
+image: assets/images/2023-10-24-Spine-Tingling-Spookiness-Of-Skeletons.jpg
 layout: post
 tags: []
 title: "The spine-tingling spookiness of skeletons"

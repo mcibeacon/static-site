@@ -1,5 +1,6 @@
 ---
 author: lcousins
+image: assets/images/2023-10-24-How-Old-Is-Too-Old-For-Halloween.jpg
 layout: post
 tags: []
 title: "How old is too old for halloween?"

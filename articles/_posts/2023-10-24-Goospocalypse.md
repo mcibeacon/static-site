@@ -1,6 +1,6 @@
 ---
 author: cemeka
-image: assets/images/some-photo.jpg
+image: assets/images/2023-10-24-Goospocalypse.jpg
 layout: post
 tags: []
 title: "Goospocalypse"

@@ -1,6 +1,6 @@
 ---
 author: mhutton
-image: assets/images/some-photo.jpg
+image: assets/images/2023-10-23-Rise-Of-The-School-Instagram.jpg
 layout: post
 tags: []
 title: "The Rise of the School Instagram"

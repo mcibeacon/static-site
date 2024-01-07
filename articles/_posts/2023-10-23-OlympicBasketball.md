@@ -1,5 +1,6 @@
 --- 
 author: jkhan
+image: assets/images/2023-10-23-Canada-qualifies-for-Paris-Olympics-2024.jpg
 layout: post
 tags: []
 title: "Canada qualifies for Paris Olympics 2024"
