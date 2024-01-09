@@ -29,12 +29,4 @@ the time an Instagram account that promoted hate and bullying was
 investigated by the police. I still remember exactly where I was when
 this was announced, as many senior MCI students do. Now, there are
 accounts that post memes, but use a different model, as they promote
-kindness and only post respectful memes. ~~In honour of this account,~~
-~~I will include my very own même to close out this article.~~
-
-Me hitting stay signed in for the 100th time in the same day on
-Brightspace
-
-![](media/image1.jpg)
-
-Thank you for your attention, Max
+kindness and only post respectful memes. 
