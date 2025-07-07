@@ -1,6 +1,5 @@
 ---
 author: rpannu
-image: assets/images/2023-02-15-Teacher_Interview_Mr._Reardon.jpg
 layout: post
 tags: []
 title: "Teacher Interview: Mr. Reardon"
